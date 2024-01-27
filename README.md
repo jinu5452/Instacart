@@ -13,3 +13,6 @@
 ##### **Visualizations:** 
 Instacart Tableau Visualizations
 ![image](https://github.com/jinu5452/Instacart/assets/157840439/e91100d9-4a13-44d2-97a7-006c584d0099)
+
+Instacart Tableau Visualizations
+![image](https://github.com/jinu5452/Instacart/assets/157840439/e91100d9-4a13-44d2-97a7-006c584d0099)
