@@ -1,8 +1,11 @@
-![image](https://github.com/jinu5452/Instacart/assets/157840439/f002ce7b-7080-4a45-98c4-45b1df048a55)### Instacart
+### Instacart
+
 
 ##### The Instacart project was developed based on the Instacart 2017 dataset and the price information fabricated by CareerFoundry. It was designed to propose marketing strategies for Instacart through customer analysis.
 
+
 ##### **Analyzed by Python Excel Tableau**
+
 
 
 ##### **Recommendations:** 
