@@ -1,4 +1,4 @@
-### Instacart
+![image](https://github.com/jinu5452/Instacart/assets/157840439/f002ce7b-7080-4a45-98c4-45b1df048a55)### Instacart
 
 ##### The Instacart project was developed based on the Instacart 2017 dataset and the price information fabricated by CareerFoundry. It was designed to propose marketing strategies for Instacart through customer analysis.
 
@@ -11,8 +11,5 @@
 3.	Corporation Social Responsibility: The "Elderly low income" group represents a socially vulnerable demographic. This group has lower consumption of dairy and eggs, which could be linked to health-related concerns. Caring about them could be Instacart's social responsibility.
 
 ##### **Visualizations:** 
-Instacart Tableau Visualizations
-![image](https://github.com/jinu5452/Instacart/assets/157840439/e91100d9-4a13-44d2-97a7-006c584d0099)
+[Instacart Tableau Visualizations](https://public.tableau.com/app/profile/jinwoo.chung/viz/Instacart_17056856218790/Popularitybydepartment)
 
-Instacart Tableau Visualizations
-![image](https://github.com/jinu5452/Instacart/assets/157840439/e91100d9-4a13-44d2-97a7-006c584d0099)
